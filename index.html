@@ -33,11 +33,19 @@
                 font-size: 18px;
                 padding-bottom: 25px;
             }
+            #countdown {
+                font-weight:600;
+            }
             #the-answer-no {
                 display:none;
             }
             #the-answer-yes {
                 display:none;
+            }
+            #the-bww-count {
+                padding-top:25px;
+                font-size: 18px;
+                text-align: center;
             }
  
         </style>
@@ -100,9 +108,9 @@
  
                     document.getElementById(id).innerHTML += 'and ' + seconds + ' second';
                     if  (seconds != 1) {
-                        document.getElementById(id).innerHTML += 's.';
+                        document.getElementById(id).innerHTML += 's';
                     } else {
-                        document.getElementById(id).innerHTML += '.';
+                        document.getElementById(id).innerHTML += '';
                     }
                     
                 }
@@ -129,7 +137,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div id="the-countdown-container">
-                        It will be time to drive across the US in <span id="countdown"></span>
+                        It will be time to drive across the US in <span id="countdown"></span>.
                     </div>
                 </div>
             </div>
@@ -140,8 +148,8 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-12 the-bww-count">
-                    bww
+                <div class="col-md-12" id="the-bww-count">
+                    Buffalo Wild Wings visited: <span style="font-weight:600">0/5 (0%)</span>
                 </div>
             </div>
 
