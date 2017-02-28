@@ -27,11 +27,89 @@
             .the-map {
                 text-align: center;
             }
+            #the-countdown-container {
+                text-align:center;
+                display:none;
+                font-size: 18px;
+                padding-bottom: 25px;
+            }
+            #the-answer-no {
+                display:none;
+            }
+            #the-answer-yes {
+                display:none;
+            }
  
         </style>
         <link rel="stylesheet" href="css/bootstrap-theme.min.css">
         <link rel="stylesheet" href="css/main.css">
         <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+
+        <script>
+            // http://stackoverflow.com/a/9335296
+            CountDownTimer('Wed April 22 2017 13:00:00 GMT-0500', 'countdown');
+            //CountDownTimer('Jan 1 2017 13:00:00 GMT-0500', 'countdown');
+        
+            function CountDownTimer(dt, id)
+            {
+                var end = new Date(dt);
+        
+                var _second = 1000;
+                var _minute = _second * 60;
+                var _hour = _minute * 60;
+                var _day = _hour * 24;
+                var timer;
+        
+                function showRemaining() {
+                    var now = new Date();
+                    var distance = end - now;
+                    document.getElementById("loading-answer").style.display = "none";
+                    if (distance < 0) {
+                        clearInterval(timer);
+                        document.getElementById("the-answer-yes").style.display = "block";
+                        return;
+                    } else {
+                        document.getElementById("the-answer-no").style.display = "block";
+                        document.getElementById("the-countdown-container").style.display = "block";
+
+                    }
+                    var days = Math.floor(distance / _day);
+                    var hours = Math.floor((distance % _day) / _hour);
+                    var minutes = Math.floor((distance % _hour) / _minute);
+                    var seconds = Math.floor((distance % _minute) / _second);
+        
+                    document.getElementById(id).innerHTML = days + ' day';
+                    if  (days != 1) {
+                        document.getElementById(id).innerHTML += 's ';
+                    } else {
+                        document.getElementById(id).innerHTML += ' ';
+                    }
+                    document.getElementById(id).innerHTML += hours + ' hour';
+                    if  (hours != 1) {
+                        document.getElementById(id).innerHTML += 's ';
+                    } else {
+                        document.getElementById(id).innerHTML += ' ';
+                    }
+ 
+                    document.getElementById(id).innerHTML += minutes + ' minute';
+                    if  (minutes != 1) {
+                        document.getElementById(id).innerHTML += 's ';
+                    } else {
+                        document.getElementById(id).innerHTML += ' ';
+                    }
+ 
+                    document.getElementById(id).innerHTML += 'and ' + seconds + ' second';
+                    if  (seconds != 1) {
+                        document.getElementById(id).innerHTML += 's.';
+                    } else {
+                        document.getElementById(id).innerHTML += '.';
+                    }
+                    
+                }
+                timer = setInterval(showRemaining, 1000);
+            }
+        </script>
+
     </head>
     <body>
         <!--[if lt IE 8]>
@@ -41,14 +119,18 @@
         <div class="jumbotron">
             <div class="container answer-the-question">
                 <p>Is it time to drive across the US?</p>
-                <h1 class="the-answer">No!</h1>
+                <img src="loading.gif" id="loading-answer"/>
+                <h1 class="the-answer" id="the-answer-no">No!</h1>
+                <h1 class="the-answer" id="the-answer-yes">YES!</h1>
             </div>
         </div>
 
         <div class="container">
             <div class="row">
-                <div class="col-md-12 the-countdown">
-                    blah
+                <div class="col-md-12">
+                    <div id="the-countdown-container">
+                        It will be time to drive across the US in <span id="countdown"></span>
+                    </div>
                 </div>
             </div>
 
