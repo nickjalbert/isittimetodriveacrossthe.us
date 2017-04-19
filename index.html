@@ -47,6 +47,13 @@
                 font-size: 18px;
                 text-align: center;
             }
+            #progress-table {
+                margin-top: 45px;
+                margin-bottom: 45px;
+            }
+            #progress-table th {
+                text-align: center;
+            }
  
         </style>
         <link rel="stylesheet" href="css/bootstrap-theme.min.css">
@@ -147,6 +154,40 @@
                     <img src="map.png"/>
                 </div>
             </div>
+            <div class="row">
+                <div class="col-md-12 the-map">
+                    <table id="progress-table" class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Planned Journey</th>
+                                <th>Planned Distance</th>
+                                <th>Planned Time</th>
+                                <th>Journey</th>
+                                <th>Distance</th>
+                                <th>Time</th>
+                                <th>Avg Speed (mph)</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Sat, 4/22/17</td>
+                                <td>CHI to Pike's Peak</td>
+                                <td>257 mi</td>
+                                <td>4.5 hr</td>
+                                <td>NA</td>
+                                <td>NA</td>
+                                <td>NA</td>
+                                <td>NA</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+
+
+
             <div class="row">
                 <div class="col-md-12" id="the-bww-count">
                     Buffalo Wild Wings visited: <span style="font-weight:600">0/5 (0%)</span>
