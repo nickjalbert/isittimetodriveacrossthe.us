@@ -151,10 +151,8 @@
   * Local Marion stops by
     * Uses "Heiffer dust" instead of "bullshit"
     * Drinks free coffee, used to work at bar
-    * Whitney is annoyed by her
     * Has a vibrating bed
   * Local Rita stops by
-    * Some of the girls do side prostitution gigs during stripper season
     * Used to be a cocktail waitress
     * Makes indian joke but it's okay because she is 1/50th
   * Bartender mom (Shelly) swings by to bring girls to gym
@@ -166,7 +164,7 @@
   * local Dogger stops by
     * Army vet + DJ
   * Mady is better cook than Whitney
-  * Girls like rap music
+  * Girls like rap music, Matt talks about Coachella and Lagunitas
   * Shower at Frank Day's Motel Annex
   * Decide to push on 8 hours after arrival
 
