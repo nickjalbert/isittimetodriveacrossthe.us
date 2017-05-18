@@ -126,3 +126,54 @@
 * Sleep on the side of street near Infusion in Benson
 
 
+## [Tuesday April 25 2017](https://goo.gl/maps/XoL1g4KHaxp)
+* Wake up on the streets of Benson in Omaha
+* Nick goes to get an Aroma Coffee
+* Head to the Cruise America near Papillion
+  * They tell us that Wind Alley is usually tough
+  * Asked if we saw overturned tractor trailers
+  * Oatmeal and single shoe for sale
+  * Put Jeff on RV insurance
+* Drive by the high school where Election was filmed (Papillion La Vista)
+
+* Drive towards Norfolk NE
+  * Eat at a Runza fast food retaurant where two old men dopplegangers are on opposite sides of the seating area
+  * Ask what's good and no on likes any of the food served there
+  * Drive by Johnny Carson childhood home, Jeff stops in the middle of the blvd to take a picture
+  * Hit the Love's for gas, water, and IHOP express
+
+* Drive to Frank Day's in Dallas SD
+  * Pass Pete's Taxidermy en route
+  * Meet hot bartender Whitney
+  * Get full tour of strip club, fine dining, VIP lounge 
+  * Learn about stripper season, we have come at the wrong season (Pheasant hunt Sept-Nov is primetime)
+  * Chicken fried steak + burger (Whitney can only make the pub food)
+  * Local Marion stops by
+    * Uses "Heiffer dust" instead of "bullshit"
+    * Drinks free coffee, used to work at bar
+    * Whitney is annoyed by her
+    * Has a vibrating bed
+  * Local Rita stops by
+    * Some of the girls do side prostitution gigs during stripper season
+    * Used to be a cocktail waitress
+    * Makes indian joke but it's okay because she is 1/50th
+  * Bartender mom (Shelly) swings by to bring girls to gym
+  * Collette takes over bar
+    * We think it's a ploy to have us drink and wait for the girls to return
+  * Girls come back and buy us a drink
+  * Roll dice for Jukebox $$ (probably got hustled)
+  * Dinner of (delicious) indian tacos and try some sausage
+  * local Dogger stops by
+    * Army vet + DJ
+  * Mady is better cook than Whitney
+  * Girls like rap music
+  * Shower at Frank Day's Motel Annex
+  * Decide to push on 8 hours after arrival
+
+* Drive North towards 90
+  * Jeff gets real tired real fast
+
+* Pull into a truck stop on 90 near Belvidere w/ Matt at helm
+* Realize it's just light pollution, not aliens, on horizon
+* Matt tries his best to freeze to death
+
