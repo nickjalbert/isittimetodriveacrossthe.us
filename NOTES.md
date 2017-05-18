@@ -65,7 +65,64 @@
 
 * Drive to Prarie Rose State Park and sleep
 
+## [Monday April 24 2017](https://goo.gl/maps/7deCtuh2neS2)
+* Wake up in Prairie Rose State Park
+  * Hit the park showers and shitter.  Listen to Salt-N-Pepa Push It
+  * Deal with dumping waste and refilling water
+  * Whitney calls matt and jeff gives shit
 
-  
+* Drive through WIND ALLEY to get to Omaha
+  * Stop by Warren Buffett's house
+  * Get coffee at Aroma Coffee
+  * Walgreens
+    * Code 6 to use bathroom
+    * Jeff yells at guy who he thought was Matt through bathroom door
+    * Buy soap but no fan
+
+* Drive to Crescent Moon
+  * Original(ish) Reubens are real tasty
+  * Meet Marylynn and after Jeff says she looks like A Payne's mom
+  * A Payne is interviewing Julianne Moore that evening by dumb luck
+
+* Drive to main theater
+ * Try to get discount tickets but no promo code
+ * Filmstream is closed
+
+* Go to Omaha Zoo
+  * No Animals
+  * EZ calls Nick, Nick is irritated
+  * No beer to be found
+  * Weird grass spray is on the ground in all the animal cages
+  * Nick yells Go O's at some dude with an O's hat but he just looks confused
+  * Gorilla RandR (Regurgitate and reingestion)
+  * Swamp full of alligtors
+  * Namibia desert
+  * Bottomless water pit in cave
+  * Real spider in vestibule
+  * Butterfly enclosure
+  * Gross bats
+
+* Visit old Baseball Stadium/Rosenblatt Field in Zoo Parking Lot
+* Drive to Film Stream--still closed
+* Drive to main theater
+  * Jeff weils them into giving him a free ticket
+  * No parking so Matt and Nick drop Jeff off for A Payne
+
+* Jeff has an evening with A Payne
+  * Go in sit in closest seat
+  * Meet DC lobbyist who knows Mike Barnicle.  Has screenplay "Citizens United"
+  * Meet Omaha film commisioner
+  * Sneak into after party (no Payne, no Moore)
+  * Paid for free drinks
+  * Talked to kid who didn't know either A Payne or Julianne Moore
+  * Meet pro-life democrat Omaha Mayoral Candiate endorsed by Bernie Sanders
+  * Tries to take Jamison on rocks into Uber to Matt + Nick
+
+* Matt and Nick have an evening with Booze
+  * Infusion brewery tour; Nick eats a lot of grains
+  * Joel and Megan meet us and we get dinner at 1815 Benson
+
+* Jeff rejoins Matt and Nick
+* Sleep on the side of street near Infusion in Benson
 
 
